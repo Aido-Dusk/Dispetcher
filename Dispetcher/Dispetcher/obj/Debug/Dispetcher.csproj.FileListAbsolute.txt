@@ -1,0 +1,5 @@
+F:\programm\c#\Dispetcher\Dispetcher\obj\Debug\Dispetcher.csproj.CoreCompileInputs.cache
+F:\programm\c#\Dispetcher\Dispetcher\bin\Debug\Dispetcher.exe
+F:\programm\c#\Dispetcher\Dispetcher\bin\Debug\Dispetcher.pdb
+F:\programm\c#\Dispetcher\Dispetcher\obj\Debug\Dispetcher.exe
+F:\programm\c#\Dispetcher\Dispetcher\obj\Debug\Dispetcher.pdb
